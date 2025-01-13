@@ -100,7 +100,7 @@ dos respectivos intervalos.
  * O LED piscou seguindo a dinâmica definida para o sinal SOS.
  * Os tempos de pausa e os ciclos foram executados corretamente.
    
- **3. Conclusão** 
+ **3. Conclusão**  
  O projeto atendeu a todos os requisitos especificados, transmitindo o sinal SOS 
 corretamente por meio de um LED conectado ao GPIO 13. A implementação 
 modularizada e o uso de variáveis para controle de tempo facilitaram a manutenção e 
